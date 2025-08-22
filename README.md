@@ -60,3 +60,82 @@ src="https://img.shields.io/github/followers/SVNGWA-O?logo=github&style=for-the-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Languages & Frameworks</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f0f4f8;
+    margin: 0;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  .card {
+    position: relative;
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0 8px 15px rgba(0,0,0,0.15);
+    cursor: pointer;
+    background: white;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 25px rgba(0,0,0,0.3);
+  }
+  .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
+  }
+  .label {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0,0,0,0.6);
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    padding: 0.5rem 0;
+    font-size: 1rem;
+    letter-spacing: 0.05em;
+    user-select: none;
+  }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <div class="label">JavaScript</div>
+</div>
+
+<div class="card">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
+  <div class="label">React</div>
+</div>
+
+<div class="card">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+  <div class="label">Python</div>
+</div>
+
+<div class="card">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  <div class="label">Node.js</div>
+</div>
+
+</body>
+</html>
+
