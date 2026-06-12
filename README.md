@@ -1,10 +1,87 @@
-# 💫 About Me:
-<b>Hello there, This is MUGISHA SANGWA OLIVIER'S GiTHub page.</b> <br><br>
-I'm an aspiring Data Engineer, Software Engineer, and AI Engineer passionate about creating secure, scalable systems that are both user-focused and data-driven.<br><br>I come from a strong programming background, with experience in JavaScript, Python, Java, and SQL, and I’ve built full-stack applications using tools like Node.js, Express, React, MongoDB, and MySQL. I'm particularly drawn to the backend—designing APIs, working with databases, and writing efficient, maintainable code.<br><br>As I continue to grow, I'm diving deeper into data engineering, with a focus on building reliable pipelines and learning how to manage data flow in distributed systems. At the same time, I’m committed to learning and applying cybersecurity best practices—because robust systems must also be secure by design.<br><br>I've also started working with AWS, where I'm learning how to leverage cloud infrastructure to build and deploy applications that are both scalable and resilient.<br><br>I bring strong analytical thinking, clear communication, and the ability to collaborate effectively—especially in remote and culturally diverse teams. I'm always eager to learn, open to feedback, and ready to contribute to meaningful projects.<br><br>I'm approachable, team-oriented, and always up for a new challenge—whether it’s in data, development, or cybersecurity. If you're working on something exciting, or want to collaborate, let’s connect and build something great together.
+# Hey, I'm Mugisha Sangwa Olivier 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Engineer;AI+Enthusiast;Building+Technology+With+Purpose" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ishimwe-mugisha-sangwa-olivier-a413b5250](https://www.linkedin.com/in/mugisha-sangwa-olivier-ishimwe-a413b5250/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ishimwem1@mail.husson.edu) 
+## About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+I am a Computer Science student at **Worcester Polytechnic Institute (WPI)** pursuing a B.S. in Computer Science and M.S. in Artificial Intelligence.
+
+My journey in technology started with curiosity: understanding how things work, solving problems, and finding ways to use technology to make everyday experiences better. That curiosity has grown into a passion for software engineering, artificial intelligence, and building systems that create real value.
+
+I enjoy working at the intersection of technology and people. Whether I am designing software, exploring AI, or learning a new framework, my goal is always to understand the problem first and then build a thoughtful solution.
+
+---
+
+## What I Am Interested In
+
+💡 **Artificial Intelligence**  
+Exploring how AI can enhance human ability, improve decision-making, and help people work more effectively.
+
+💻 **Software Engineering**  
+Building reliable, maintainable, and scalable applications with strong foundations in design and architecture.
+
+☁️ **Cloud & Systems**  
+Learning how modern platforms are built, deployed, and scaled to serve real-world needs.
+
+🔐 **Secure Technology**  
+Understanding how to create systems that are not only functional but also trustworthy.
+
+---
+
+## Engineering Philosophy
+
+I believe technology is most powerful when it solves meaningful problems.
+
+Great engineering is not only about writing code. It is about understanding people, asking better questions, learning continuously, and creating solutions that can make an impact.
+
+I see AI as a tool that can amplify human creativity and productivity. The future belongs to people who can combine strong technical skills, critical thinking, and responsible use of technology.
+
+---
+
+## Technical Skills
+
+**Languages**
+
+Java • Python • C++ • C# • JavaScript • TypeScript  
+Kotlin • Swift • SQL • HTML • CSS
+
+**Frameworks & Tools**
+
+React • Node.js • FastAPI • Flask  
+Docker • Git • PostgreSQL • MongoDB  
+Google Cloud • REST APIs
+
+**Concepts**
+
+Data Structures & Algorithms  
+Object-Oriented Programming  
+System Design  
+Artificial Intelligence  
+Cybersecurity  
+Software Architecture
+
+---
+
+## Experience
+
+- Software Engineering Intern
+- Computer Science Peer Learning Assistant
+- Teaching Assistant
+- IT Support Assistant
+- Student Technology Leader
+
+---
+
+## Let's Connect
+
+LinkedIn: https://www.linkedin.com/in/mugisha-sangwa-olivier-ishimwe-a413b5250/
+
+Portfolio: https://svngwa-o.github.io/
+
+GitHub: https://github.com/SVNGWA-O
+
+---
+
+⭐ Always learning. Always building. Always improving.
